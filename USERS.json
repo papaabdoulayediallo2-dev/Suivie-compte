@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "prenom": "sdf",
+        "nom": "fds",
+        "telephone": 546,
+        "email": "sdfv",
+        "motPasse": "sdfv",
+        "adress": "svdx",
+        "etat": "ACTIF",
+        "solde_compte": 0,
+        "dateCreation": "2026-10-16 21:29:07",
+        "depense": 0,
+        "ajout": 0,
+        "derniereConnexion": "aucune",
+        "premierconnexion": 1
+    },
+    {
+        "id": 2,
+        "prenom": "sdfv",
+        "nom": "gsdf",
+        "telephone": 535,
+        "email": "sdvf",
+        "motPasse": "dsvfx",
+        "adress": "dvfc x",
+        "etat": "ACTIF",
+        "solde_compte": 0,
+        "dateCreation": "2026-10-16 21:42:05",
+        "depense": 0,
+        "ajout": 0,
+        "derniereConnexion": "aucune",
+        "premierconnexion": 1
+    }
+]
