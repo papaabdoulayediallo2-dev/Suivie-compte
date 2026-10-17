@@ -30,5 +30,55 @@
         "ajout": 0,
         "derniereConnexion": "aucune",
         "premierconnexion": 1
+    },
+    {
+        "id": 3,
+        "prenom": "diallo",
+        "nom": "laye",
+        "telephone": 761808410,
+        "email": "papaabdoulayediallo2@gmail.com",
+        "motPasse": "diagdfdbdfllo",
+        "adress": "Malika",
+        "etat": "ACTIF",
+        "solde_compte": 0,
+        "dateCreation": "2026-10-17 17:37:18",
+        "depense": 0,
+        "ajout": 0,
+        "derniereConnexion": "aucune",
+        "premierconnexion": 1
+    },
+    {
+        "id": 4,
+        "prenom": "diallo",
+        "nom": "laye",
+        "telephone": 761808410,
+        "email": "layediallo2@gmail.com",
+        "motPasse": "dfgdf2121",
+        "adress": "Pikine",
+        "etat": "ACTIF",
+        "solde_compte": 989000,
+        "dateCreation": "2026-10-17 17:58:48",
+        "depense": [
+            {
+                "montant": 2000,
+                "date": "2026-10-17 17:59:39"
+            },
+            {
+                "montant": 10000,
+                "date": "2026-10-17 18:00:27"
+            }
+        ],
+        "ajout": [
+            {
+                "montant": 1000,
+                "date": "2026-10-17 17:59:28"
+            },
+            {
+                "montant": 1000000,
+                "date": "2026-10-17 18:00:17"
+            }
+        ],
+        "derniereConnexion": "2026-10-17 17:59:11",
+        "premierconnexion": 1
     }
 ]
